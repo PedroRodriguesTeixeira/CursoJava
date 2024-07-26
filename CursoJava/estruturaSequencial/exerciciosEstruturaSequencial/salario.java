@@ -1,4 +1,4 @@
-package CursoJava.estruturaSequencial.exerciciosEstruturaSequencial;
+package CursoJava.exerciciosEstruturaSequencial;
 import java.util.Scanner;
 
 /*Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por

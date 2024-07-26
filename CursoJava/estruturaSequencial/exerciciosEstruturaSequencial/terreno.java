@@ -1,4 +1,4 @@
-package CursoJava.estruturaSequencial.exerciciosEstruturaSequencial;
+package CursoJava.exerciciosEstruturaSequencial;
 import java.util.Scanner;
 
 /*Fazer um programa para ler as medidas da largura e comprimento de um terreno

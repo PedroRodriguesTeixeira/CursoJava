@@ -1,4 +1,4 @@
-package CursoJava.estruturaSequencial.exerciciosEstruturaSequencial;
+package CursoJava.exerciciosEstruturaSequencial;
 import java.util.Scanner;
 
 /*Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o

@@ -1,4 +1,4 @@
-package CursoJava.estruturaSequencial.exerciciosEstruturaSequencial;
+package CursoJava.exerciciosEstruturaSequencial;
 import java.util.Scanner;
 
 public class calculoDeAreas {
