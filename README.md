@@ -1,2 +1,1 @@
-# CursoJava
-Curso de java do Nélio Alves(Udemy) e devdojo(Youtube)
+Aulas e exercícios do Java da Udemy(Nélio alves): (https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/learn/) e Youtube(Devdojo): (https://www.youtube.com/watch?v=VnH7OVFj_pA&list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW&index=1)
